@@ -1,0 +1,137 @@
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.g.resources
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.CopyComplete
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.g.cs
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.baml
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\kryst\OneDrive\Plocha\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\App.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\App.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.g.resources
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.CopyComplete
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\HighScoreWindow.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\HighScoreWindow.baml
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameOverWindow.g.cs
+C:\Users\kryst\Desktop\ZP PVA\Snake\Snake\obj\Debug\net6.0-windows\GameOverWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\GameOverWindow.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\HighScoreWindow.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\App.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\GameOverWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\GameSettingsWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\HighScoreWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.g.resources
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.csproj.CopyComplete
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+C:\Users\kryst\Desktop\kremecek_pva\src\Snake\obj\Debug\net6.0-windows\ref\Snake.dll

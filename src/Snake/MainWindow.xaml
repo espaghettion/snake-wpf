@@ -1,0 +1,19 @@
+﻿<Window x:Class="Snake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="Snake" Height="820" Width="800" KeyDown="Window_KeyDown" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <FontFamily x:Key="EmulogicFont">fonts/Emulogic-zrEw.ttf #Emulogic</FontFamily>
+    </Window.Resources>
+    <Grid x:Name="myGrid" Width="800" Height="800" Background="#FF2C1D3D" Margin="0,0,0,-20">
+        <Canvas Height="600" Width="600" Background="#FF7E3798">
+            <ContentPresenter Content="{Binding Path=gameField}"/>
+        </Canvas>
+        <Label x:Name="scoreBox" FontFamily="{StaticResource EmulogicFont}" Content="Score:0" HorizontalAlignment="Center" Margin="0,5,0,0" VerticalAlignment="Top" Foreground="White" FontSize="60"/>
+        <Label x:Name="playTime" Content="00:00" FontFamily="{StaticResource EmulogicFont}" HorizontalAlignment="Center" Margin="0,705,0,0" VerticalAlignment="Top" FontSize="48" Foreground="White"/>
+    </Grid>
+</Window>

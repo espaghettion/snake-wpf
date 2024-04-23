@@ -1,0 +1,31 @@
+﻿<Window x:Class="Snake.GameSettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="Snake" Height="550" Width="600" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF2C1D3D"/>
+            <GradientStop Color="#FF7E3798" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Label x:Name="MapSizeLabel" Style="{StaticResource lblDesign}" Content="Map Size" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="30" Foreground="White"/>
+        <Label x:Name="SpeedLabel" Style="{StaticResource lblDesign}" Content="Speed" HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" FontSize="30" Foreground="White"/>
+        <Label x:Name="ModeLabel" Style="{StaticResource lblDesign}" Content="Mode" HorizontalAlignment="Center" Margin="0,310,0,0" VerticalAlignment="Top" Foreground="White" FontSize="30"/>
+        <Button x:Name="SmallMapButton" Style="{StaticResource btnDesign}" Content="Small" HorizontalAlignment="Left" Margin="56,75,0,0" VerticalAlignment="Top" Height="60" Width="150" Click="SmallMapButton_Click"/>
+        <Button x:Name="NormalMapButton" Style="{StaticResource btnDesign}" Content="Normal" HorizontalAlignment="Center" Margin="0,75,0,0" VerticalAlignment="Top" Height="60" Width="150" Click="NormalMapButton_Click"/>
+        <Button x:Name="LargeMapButton" Style="{StaticResource btnDesign}" Content="Large" HorizontalAlignment="Right" Margin="0,75,56,0" VerticalAlignment="Top" Height="60" Width="150" Click="LargeMapButton_Click"/>
+        <Button x:Name="SlowSpeedButton" Style="{StaticResource btnDesign}" Content="Slow" HorizontalAlignment="Left" Margin="56,226,0,0" VerticalAlignment="Top" Height="60" Width="150" Click="SlowSpeedButton_Click"/>
+        <Button x:Name="NormalSpeedButton" Style="{StaticResource btnDesign}" Content="Normal" HorizontalAlignment="Center" VerticalAlignment="Top" Height="60" Width="150" Margin="0,226,0,0" Click="NormalSpeedButton_Click"/>
+        <Button x:Name="FastSpeedButton" Style="{StaticResource btnDesign}" Content="Fast" HorizontalAlignment="Right" Margin="0,226,56,0" VerticalAlignment="Top" Height="60" Width="150" Click="FastSpeedButton_Click"/>
+        <Button x:Name="NormalModeButton" Style="{StaticResource btnDesign}" Content="Normal" HorizontalAlignment="Left" Margin="131,375,0,0" VerticalAlignment="Top" Height="60" Width="150" Click="NormalModeButton_Click"/>
+        <Button x:Name="WallModeButton" Style="{StaticResource btnDesign}" Content="Walls" HorizontalAlignment="Right" Margin="0,375,131,0" VerticalAlignment="Top" Height="60" Width="150" Click="WallModeButton_Click"/>
+        <Button x:Name="GoBackButton" Style="{StaticResource btnDesign}" Content="Back" HorizontalAlignment="Left" Margin="25,469,0,0" VerticalAlignment="Top" Height="30" Width="110" FontSize="10" Click="GoBackButton_Click"/>
+        <Button x:Name="StartGameButton" Style="{StaticResource btnDesign}" Content="Start Game" HorizontalAlignment="Right" Margin="0,469,25,0" VerticalAlignment="Top" Height="30" Width="110" FontSize="10" Click="StartGameButton_Click"/>
+
+    </Grid>
+</Window>
